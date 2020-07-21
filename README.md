@@ -1,3 +1,3 @@
 ⚡ Twitch-Auto-Points is a chrome extension that automatically claims channel points for you!
 
-![image](https://github.com/Brattlof/Twitch-Auto-Points/blob/master/icon.png=250x20)
+<img src="https://github.com/Brattlof/Twitch-Auto-Points/blob/master/icon.png" alt="drawing" style="width:200px;"/>
